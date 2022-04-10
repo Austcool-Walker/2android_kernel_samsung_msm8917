@@ -1,4 +1,0 @@
-kernel/drivers/sensors/k2hh.ko
-kernel/drivers/sensors/sx9306.ko
-kernel/drivers/sensors/sx9306_wifi.ko
-kernel/drivers/sensors/sx9306_sub.ko
