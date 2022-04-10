@@ -1,0 +1,5 @@
+kernel/drivers/misc/qseecom.ko
+kernel/drivers/misc/hdcp.ko
+kernel/drivers/misc/tzic64.ko
+kernel/drivers/misc/dmverity_query.ko
+kernel/drivers/misc/eeprom/eeprom_93cx6.ko
